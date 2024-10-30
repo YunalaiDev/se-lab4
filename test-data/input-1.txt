@@ -1,0 +1,3 @@
+# Try to fire both torpedos
+GT4500,1,0,1,0
+TORPEDO,ALL # Should return success
