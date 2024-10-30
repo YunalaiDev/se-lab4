@@ -1,0 +1,3 @@
+#We fire with the secondary after the primary
+GT4500,0,0,1,0
+TORPEDO,SINGLE #Now both should be empty
